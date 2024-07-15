@@ -91,15 +91,15 @@ input:checked + label .description {
 }
 
 .card[for="c1"] {
-    background-image: url(Winter.jpg);
+    background-image: url(Put-image-here.jpg);
 }
 .card[for="c2"] {
-    background-image: url(Summer.jpeg);
+    background-image: url(Put-image-here.jpeg);
 }
 .card[for="c3"] {
-    background-image: url(Spring.jpeg);
+    background-image: url(Put-image-here.jpeg);
 }
 .card[for="c4"] {
-    background-image: url(Fall.jpg);
+    background-image: url(Put-image-here.jpg);
 }
 
